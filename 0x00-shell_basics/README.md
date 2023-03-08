@@ -1,0 +1,1 @@
+What directory am i?

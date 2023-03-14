@@ -1,1 +1,1 @@
-This is a ReadMe about Shell, I/O Redirections and filters
+This is the Readme file of Shell Redirections
